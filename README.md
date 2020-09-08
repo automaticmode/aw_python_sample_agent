@@ -1,4 +1,4 @@
-# ActiveWorkflow Remote Agent Example in Python
+# ActiveWorkflow Custom Agent Example in Python
 
 This project implements a simple example agent for
 [ActiveWorkflow](https://github.com/automaticmode/active_workflow). The agent
