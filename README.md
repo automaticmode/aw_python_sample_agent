@@ -1,14 +1,14 @@
 # ActiveWorkflow Custom Agent Example in Python
 
 This project implements a simple example agent for [ActiveWorkflow](https://github.com/automaticmode/active_workflow).
-The agent is implemented in Python and uses the [remote agent API](https://github.com/automaticmode/active_workflow/wiki/Remote-Agent-API).
+The agent is implemented in Python and uses the [remote agent API](https://docs.activeworkflow.org/remote-agent-api).
 
 This agent doesn't do anything useful but it does demonstrate the features of ActiveWorkflow's Remote Agent API.
 
 ## Quick Start
 
 This agent is intended to be used as part of [ActiveWorkflow](https://github.com/automaticmode/active_workflow).
-To get started with ActiveWorkflow please see the [Getting Started](https://github.com/automaticmode/active_workflow/wiki/Getting-Started) section in the wiki.
+To get started with ActiveWorkflow please see the [ActiveWorkflow documentation](https://docs.activeworkflow.org/).
 
 Also, please make sure you run this agent *before* starting ActiveWorkflow (you may want to use [virtualenv](https://virtualenv.pypa.io/en/latest/)):
 
